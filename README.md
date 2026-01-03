@@ -50,12 +50,12 @@ Project ini memisahkan metode pengambilan data untuk tujuan demonstrasi:
 Menampilkan daftar anime dalam bentuk grid card yang elegan.
 | Dark Mode | Light Mode |
 |---|---|
-| ![Dark Mode](./ss/home-dark.png) | ![Light Mode](./ss/home-light.png) |
+| ![Dark Mode](./screenshoot/home-dark.png) | ![Light Mode](./screenshoot/home-light.png) |
 
 ### Detail & Fitur Lainnya
 | Modal Detail | Empty Search State | Footer |
 |---|---|---|
-| ![Modal](./ss/modal-popup.png) | ![Empty State](./ss/empty-search.png) | ![Footer](./ss/footer.png) |
+| ![Modal](./screenshoot/modal.png) | ![Empty State](./screenshoot/empty-search.png) | ![Footer](./screenshoot/footer.png) |
 
 ---
 
